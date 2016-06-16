@@ -1,4 +1,13 @@
-style.css
-body {background-color: ffff00;}
-h1,p{color:gold;}
-<link rel="stylesheet" type="text/css" href="css/style.css">
+body {
+  text-align: center;
+  background: url("hJasper_Johns's_'Map',_1961.jpg");
+  background-size: cover;
+  color: #fff;
+  font-family: Helvetica;
+}
+hr {
+  width: 200px;
+}
+p {
+  font-size: 22px;
+}
