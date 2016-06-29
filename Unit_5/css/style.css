@@ -1,5 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 @import url(https://fonts.googleapis.com/css?family=Judson:700);
+head{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
 body {
   	background-color: #222;
   	background-size: cover;
