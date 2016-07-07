@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,700);
-@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Lalezar);
 
 body {
 	font-family: 'Droid Sans', sans-serif;
@@ -42,7 +42,7 @@ section {padding: 5em 0;}
 h1 {
 	color: #000000;
 	font-size: 100px;
-	font-family: 'Indie Flower', cursive;
+	font-family: 'Lalezar';
 	font-weight: bold;
 	margin-bottom: 0;
 	padding: 0;
