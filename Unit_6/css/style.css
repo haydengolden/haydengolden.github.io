@@ -88,45 +88,13 @@ a {
 	display: block;
 	clear: both;
 }
-
-.performance {
-	background-color: #E582A2;
-	color: white;
-	width: 32.33%;
-	float: left;
-	margin: .5%;
-	padding: 2em;
-	min-height: 20em;
-	border: 1px black solid;
-	background-color: #d8eaee;
-	background-image: url("david-wojnarowicz-untitled-falling-buffalo-198889-1348775189_org.jpg");
-
-}
-
-#about {
-	background-image: url("david-wojnarowicz-untitled-falling-buffalo-198889-1348775189_org.jpg");
-	background-size: cover;
-	background-position: center;
-	color: #fff;
-	height: 80vh;	
-}
-
 #about div {
 	float:left;
 	margin-left: 4em;
 	width: 500px;
 	padding: 0;
 }
-
-#slogan {
-	font-size: 1.2em;
-	font-weight: bold;
-	margin: auto;
-	margin-top: 0;
-	margin-bottom: 0;
-	padding: 0;
-	font-family: 'Merriweather', sans-serif; 
-} 
+ 
 #two_column {
 	background-color: #FFB7CF;
 	border: 1px black solid;
