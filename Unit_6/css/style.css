@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
-* { margin:0; padding:0; box-sizing:border-box; }
 
 body {
 	font-family: 'Droid Sans', sans-serif;
