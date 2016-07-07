@@ -3,6 +3,9 @@
 @import url(https://fonts.googleapis.com/css?family=Lalezar);
 
 body {
+	background-image: url("david-wojnarowicz-untitled-falling-buffalo-198889-1348775189_org.jpg");
+	background-size: cover;
+	background-position: center;
 	font-family: 'Droid Sans', sans-serif;
 	font-size: 18px;
 	color: #222;
