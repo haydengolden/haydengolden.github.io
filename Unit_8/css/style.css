@@ -1,12 +1,10 @@
-@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
-@import url(https://fonts.googleapis.com/css?family=Merriweather:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lalezar);
+@import url(https://fonts.googleapis.com/css?family=Lalezar: 400, 700);
 
 body {
-	/*background-image: url("../images/david-wojnarowicz-untitled-falling-buffalo-198889-1348775189_org.jpg");*/
+	/*background-image: url("../images/urban-farming-pix2.jpg");*/
 	background-size: cover;
 	background-position: center;
-	font-family: 'Droid Sans', sans-serif;
+	font-family: 'Lalezar', sans-serif;
 	font-size: 18px;
 	color: #222;
 	line-height: 1.3;
@@ -67,7 +65,7 @@ p {
 	margin: auto;
 	margin-top: 40px;
 	letter-spacing: 1px;
-	font-family: 'Droid Sans', serif;
+	font-family: 'Lalezar', serif;
 }
 hr {
 	border:none;
@@ -80,7 +78,7 @@ a {
 	text-decoration: none;	
 	
 }
-.clearfix:after{
+.clearfix:after {
 
 	visibility: hidden;
 	height: 0;
@@ -132,9 +130,9 @@ footer {
 }
 
 .hero{
-	background-image: url("../images/david-wojnarowicz-untitled-falling-buffalo-198889-1348775189_org.jpg");
+	background-image: url("../images/urban-farming-pix2.jpg");
 	background-size: cover;
-	height: 300px;
+	height: 600px;
 }
 
 #half {
